@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-interactive-rating-component-using-flexbox-and-oop-1zykeDG_WM)
 - Live Site URL: [Interactive Rating Component](https://interactive-rating-alejandro.netlify.app)
 
 ## My process
@@ -40,7 +40,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Desktop-first workflow
 - JavaScript (ES6)
 - OOP
